@@ -25,7 +25,7 @@ all-questions-required: false
 library(surveydown)
 ```
 
-::: {.sd_page id=welcome}
+--- welcome
 
 # Default Template
 
@@ -52,9 +52,7 @@ You need to insert next buttons with `sd_next()` on each page. By default, it wi
 sd_next(next_page = 'page2')
 ```
 
-:::
-
-::: {.sd_page id=page2}
+--- page2
 
 This is another page in your survey.
 
@@ -70,9 +68,7 @@ sd_question(
 sd_next()
 ```
 
-:::
-
-::: {.sd_page id=end}
+--- end
 
 ## End
 
@@ -81,5 +77,3 @@ This is the last page in the survey.
 ```{r}
 sd_close()
 ```
-
-:::

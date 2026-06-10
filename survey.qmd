@@ -11,6 +11,7 @@ theme-settings:
 
 # Use this section to customize survey behavior and appearance
 survey-settings:
+  mode: preview
   show-previous: false
   use-cookies: false
   auto-scroll: false

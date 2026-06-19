@@ -8,8 +8,6 @@ Try the live survey: https://surveydown-default.share.connect.posit.cloud
 
 [![Walkthrough recording](video-thumbnail.png)](https://cdn.jsdelivr.net/gh/surveydown-dev/template_default@main/video-recording.mp4)
 
-*Click the image above to play the recording.*
-
 ### Template page
 
 https://surveydown.org/templates/default

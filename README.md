@@ -1,16 +1,12 @@
+# Template - Default
+
 A minimum template for starting from scratch.
 
-### 🟢 Demo
+### See it in action
 
-Try the live survey: https://surveydown-default.share.connect.posit.cloud
-
-### 🎬 Walkthrough Recording
+Watch the **Walkthrough recording:**
 
 [![Walkthrough recording](video-thumbnail.png)](https://cdn.jsdelivr.net/gh/surveydown-dev/template_default@main/video-recording.mp4)
-
-### Template page
-
-https://surveydown.org/templates/default
 
 ### Create this template
 
@@ -24,6 +20,7 @@ surveydown::sd_create_survey(
 
 `template = "default"` is the default argument, so you do not need to specify it.
 
-### Documentation
+### Learn more
 
-[Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template)
+- [Template page - Default](https://surveydown.org/templates/default)
+- [Document page - Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template)

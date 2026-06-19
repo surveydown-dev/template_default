@@ -4,6 +4,14 @@ A minimum template for starting from scratch.
 
 Try the live survey: https://surveydown-default.share.connect.posit.cloud
 
+### 🎬 Video
+
+A video walkthrough of this template:
+
+<video src="https://github.com/surveydown-dev/template_default/raw/main/video-recording.mp4" controls width="100%"></video>
+
+[▶ Watch the walkthrough](https://github.com/surveydown-dev/template_default/raw/main/video-recording.mp4)
+
 ### Template page
 
 https://surveydown.org/templates/default
